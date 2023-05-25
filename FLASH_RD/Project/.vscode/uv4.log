@@ -1,0 +1,9 @@
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'LMCM32F401-Program'
+compiling LMCM32F401-main.c...
+..\User\LMCM32F401-main.c(31): error:  #3061: unrecognized instruction opcode
+  	__ASM(" MOVN A,#1");
+..\User\LMCM32F401-main.c: 0 warnings, 1 error
+".\Objects\LMCM32F401-Program.axf" - 1 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:01
